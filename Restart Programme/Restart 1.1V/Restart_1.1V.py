@@ -10,8 +10,8 @@ import smtplib
 #
 #
 #
-emailAddress = 'gaco2k19@gmail.com'
-password = 'GacO_2k19'
+emailAddress = '##############'
+password = '########'
 #
 #
 #
